@@ -1,4 +1,5 @@
 # Mobile Webcam
+Use your cell phone as your webcam.
 
 ## Usage
 Install IP webcam or something similar on your cell phone. This should create a video stream on the local network.
